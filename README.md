@@ -1,2 +1,2 @@
 # Samara-s-EPK
-An Electronic Press Kit for The singer/songwriter Samara
+An Electronic Press Kit for the singer/songwriter Samara
